@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Inumaki
 ===============================================================================================================================
 
-Software Engineer mayor from Germany
+Software Engineer student from Germany
 ------------------------------------
 
 I am a 19 year old student studying software development in germany right now, while also working on coding projects in my free time
